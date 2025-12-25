@@ -9,8 +9,10 @@
 	"main": "./workers/app.ts",
 	"vars": {
 		"VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
-		"ADMIN_USERNAME": "admin",
-		"ADMIN_PASSWORD": "changeme123"
+		"ADMIN_USERNAME": "ooyyh",
+		"ADMIN_PASSWORD": "727828mkW!",
+		"SITE_TITLE": "ooyyh的小网盘",
+		"SITE_ANNOUNCEMENT": "欢迎使用 CList 存储聚合服务！如有问题请联系管理员。"
 	},
 	"observability": {
 		"enabled": true
